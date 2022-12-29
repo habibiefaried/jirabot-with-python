@@ -1,5 +1,5 @@
 # jirabot-with-python
-JIRA interaction when service ticket is created and commented
+JIRA interaction when service ticket is created and commented with FAST API
 
 # Steps
 * Need to install JIRA service desk -> https://github.com/teamatldocker/jira
